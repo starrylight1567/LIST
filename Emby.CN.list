@@ -1,1 +1,21 @@
 # 终点站 直连\美区 pub1.emby.wtf  pub1.term.wtf  pub2.emby.wtf  pub2.term.wtf  pub3.emby.wtf  pub3.term.wtf
+# emby 垃圾公费 //CF美国线路 line.xmsl.org
+# hka-emby //美国 加利福尼亚 洛杉矶 hka-emby.aliz.work  hka-emby1.aliz.work  //韩国 首尔  hka-emby2.aliz.work
+# 无名小服 鹅服 //CF cavps.eu.org   US 38.150.0.75   //HK 141.11.175.105
+# //
+# DOMAIN 域名 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com，但不匹配 www.google.com。
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub1.term.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub2.term.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN,pub3.term.wtf
+# DOMAIN-SUFFIX 域名后缀 匹配域名后缀，例如 DOMAIN-SUFFIX,google.com 匹配 google.com 和 www.google.com。
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
+# DOMAIN-KEYWORD 域名关键字 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
+#DOMAIN-KEYWORD,
+# IP-CIDR IPv4地址段 IP-CIDR 规则用于根据数据包的目标 IPv4 地址路由数据包。
+#IP-CIDR,38.150.0.75/8
+# SRC-IP-CIDR 源IP段地址 SRC-IP-CIDR 规则用于根据数据包的来源 IPv4 地址路由数据包。
+#SRC-IP-CIDR,192.168.1.201/32
