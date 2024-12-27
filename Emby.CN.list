@@ -6,7 +6,7 @@
 # DOMAIN-KEYWORD 域名关键字 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
 # IP-CIDR IPv4地址段 IP-CIDR 规则用于根据数据包的目标 IPv4 地址路由数据包。
 # SRC-IP-CIDR 源IP段地址 SRC-IP-CIDR 规则用于根据数据包的来源 IPv4 地址路由数据包。
-# //
+
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub1.term.wtf
 DOMAIN,pub2.emby.wtf
